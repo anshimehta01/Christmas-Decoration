@@ -20,16 +20,9 @@ A fun and interactive web game built with **HTML, CSS, and JavaScript** where yo
 ## 🛠️ Tech Stack  
 - **HTML5** – Structure of the game  
 - **CSS3** – Styling, animations, and layout  
-- **JavaScript (Vanilla JS)** – Game logic and interactivity  
+- **JavaScript** – Game logic and interactivity  
 
 ---
 
-## 📷 Screenshots  
-*(Add a screenshot of your game here)*  
 
----
 
-## 📂 How to Run Locally  
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/christmas-tree-decoration.git
